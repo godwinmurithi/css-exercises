@@ -1,0 +1,22 @@
+.a {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.b {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: large;
+    font-weight: bold;
+}
+
+#two {
+    color: blue;
+    font-size: large;
+}
+
+#four{
+    background-color: green;
+    font-weight: bold;
+    font-size: large
+}
